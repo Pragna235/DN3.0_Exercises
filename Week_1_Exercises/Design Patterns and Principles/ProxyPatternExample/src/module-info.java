@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author PRAGNA
+ *
+ */
+module ProxyPatternExample {
+}
