@@ -14,7 +14,7 @@ public class TestLogger {
 			System.out.println("Both logger1 and logger2 are the same isntance.");
 		}
 		else {
-			System.out.println("logger1 and logger2 are different isntances.");
+			System.out.println("logger1 and logger2 are different instances.");
 		}
 	}
 
